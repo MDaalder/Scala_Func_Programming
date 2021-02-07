@@ -1,0 +1,3 @@
+[0m[[0m[31merror[0m] [0m[0mC:\Users\mattd\IdeaProjects\FuncProg\Week01\recfun\src\main\scala\recfun\RecFun.scala:33:13: ';' expected but 'if' found.[0m
+[0m[[0m[31merror[0m] [0m[0m      false if (check < 0)[0m
+[0m[[0m[31merror[0m] [0m[0m            ^[0m
