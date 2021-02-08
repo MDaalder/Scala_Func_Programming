@@ -1,0 +1,4 @@
+[error] C:\Users\mattd\Documents\GitHub_Adj\Scala_Func_Programming\Functional_Prog_Principles\W02_higherOrderFuncs\functionalSets\project\StudentTasks.scala:138:11: object tools is not a member of package scala
+[error]     scala.tools.nsc.io.File(path).writeAll(base64Jar)
+[error]           ^
+[error] one error found
